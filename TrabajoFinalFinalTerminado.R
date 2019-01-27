@@ -1,3 +1,5 @@
+# limpia datos rm(list = ls())
+
 install.packages('rvest')
 library('rvest')
 DataFramePP<-data.frame()
